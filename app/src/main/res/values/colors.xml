@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<color name="colorPrimary">#FFE545</color>-->
+    <!--<color name="colorPrimaryDark">#FBB829</color>-->
+    <!--<color name="colorAccent">#026475</color>-->
+    <color name="colorGold">#c2a34f</color>
+    <color name="colorFreshWhite">#fefbaf</color>
+
+    <color name="colorAccent">#DF151A</color>
+    <color name="colorPrimaryDark">#fd8603</color>
+    <color name="colorPrimary">#f4f328</color>
+    <color name="colorJelloGreen">#00DA3C</color>
+    <color name="collorJelloBlue">#00CBE7</color>
+</resources>
